@@ -1,0 +1,18 @@
+body{
+    font-family: 'Share Tech Mono', monospace;
+    background-image: url(/Imagens/giphy.webp);
+    background-size: cover;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.foto {
+    border: 3px solid purple;
+    border-radius: 3%;
+}
+
+#link{
+    color: crimson;
+    cursor: pointer;
+}
+
